@@ -100,4 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
+
 images/
+templates_original/
